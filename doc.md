@@ -1,0 +1,3 @@
+# Protected doc
+
+Line one.
